@@ -249,6 +249,32 @@ nav .nav_items ul li a{
 
 }
 
+/* ..................popular location CSS............. */
+
+.collections h1 span{
+    color:#3d3c3c;
+    font-weight: lighter;
+}
+
+.popular-location{
+    width:100%;
+    margin:40px auto;
+
+}
+
+.popular-location{
+    width:100%;
+    margin:40px auto;
+
+}
+
+
+
+
+
+
+
+
 /* ..................media query foe small screen size............. */
 
 @media only screen and (max-width: 768px){  
@@ -269,4 +295,5 @@ nav .nav_items ul li a{
         margin:20px;  
         
     }
+
 }  
