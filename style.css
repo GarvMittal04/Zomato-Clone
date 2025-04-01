@@ -2,7 +2,7 @@
     margin:0;
     padding:0;
     box-sizing: border-box;
-    font-family:Arial, Helvetica, sans-serif;
+    font-family: "Manrope", sans-serif;
 }
 body{
     width:100vw;
@@ -16,6 +16,8 @@ header{
     background-size: cover;
     width: 100%;
     min-height:450px; 
+    font-family: "Manrope", sans-serif;
+
 }
 nav{
     display:flex;
