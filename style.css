@@ -26,6 +26,8 @@ nav{
     width: 90%;
     height: 70px;
     margin: 0 auto;
+    font-family: "Manrope", sans-serif;
+
 }
 nav .app_link a{
     text-decoration: none;
@@ -120,6 +122,8 @@ nav .nav_items ul li a{
  width: 75%;
  margin: 0 auto;
  text-align: center;
+ font-family: "Manrope", sans-serif;
+
  
 
 }
@@ -190,6 +194,8 @@ nav .nav_items ul li a{
     width:70%;
     margin:90px auto;
     text-align:center;
+    font-family: "Manrope", sans-serif;
+
 }
 
 .collections h1{
@@ -310,7 +316,15 @@ nav .nav_items ul li a{
 }
 
 
+/* ........................App SSection CSS........................... */
 
+.app-section{
+
+    width:100%;
+    background: rgb(252,232,232)
+    
+
+}
 
 
 /* ..................media query foe small screen size............. */
