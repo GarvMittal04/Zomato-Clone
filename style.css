@@ -12,7 +12,7 @@ body{
 header{  
     background: url('https://b.zmtcdn.com/web_assets/81f3ff974d82520780078ba1cfbd453a1583259680.png'); 
     background-position: center; 
-    background-repeat: no-repeat;
+    background-repeat: no-repeat; 
     background-size: cover;
     width: 100%;
     min-height:450px; 
@@ -352,3 +352,4 @@ nav .nav_items ul li a{
     }
 
 }  
+
